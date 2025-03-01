@@ -12,7 +12,7 @@ Terima kasih telah menggunakan aplikasi "My Asperda." Aplikasi ini dikembangkan 
 
 * Kamera: Aplikasi ini menggunakan kamera perangkat untuk memungkinkan pengguna mengambil foto dan mengunggahnya ke aplikasi dalam konteks pelaporan kejadian kejahatan.
 
-Bagaimana Kami Menggunakan Informasi Anda
+**Bagaimana Kami Menggunakan Informasi Anda**
 
 Informasi yang kami kumpulkan melalui aplikasi "My Asperda" digunakan untuk tujuan berikut:
 
@@ -39,14 +39,15 @@ Anda memiliki hak untuk:
 * Mengakses, mengoreksi, atau menghapus informasi pribadi yang kami miliki tentang Anda.
 * Menarik izin yang Anda berikan kepada kami.
 * Meminta penjelasan tentang penggunaan data Anda.
-Kontak Kami
+
+**Kontak Kami**
 
 Jika Anda memiliki pertanyaan atau kekhawatiran terkait dengan kebijakan privasi kami, silakan hubungi kami di info@pilarmedia.com.
 
-Perubahan pada Privacy Policy
+**Perubahan pada Privacy Policy**
 
 Kami dapat memperbarui Privacy Policy kami dari waktu ke waktu. Setiap perubahan akan diberitahukan kepada pengguna melalui pembaruan aplikasi atau melalui alamat email yang Anda berikan kepada kami.
 
-Persetujuan Anda
+**Persetujuan Anda**
 
 Dengan menggunakan aplikasi "My Asperda," Anda menunjukkan persetujuan Anda terhadap kebijakan privasi ini.
